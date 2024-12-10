@@ -1,0 +1,2 @@
+172 9 455 9 455 639 172 639 severe-corrosion 0
+511 431 636 431 636 639 511 639 moderate-corrosion 0

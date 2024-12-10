@@ -1,0 +1,8 @@
+4 406 639 406 639 640 4 640 severe-corrosion 0
+146 204 367 204 367 404 146 404 severe-corrosion 0
+4 9 138 9 138 262 4 262 severe-corrosion 0
+152 0 344 0 344 195 152 195 severe-corrosion 0
+453 56 522 56 522 175 453 175 severe-corrosion 0
+386 177 450 177 450 293 386 293 severe-corrosion 0
+582 235 640 235 640 371 582 371 severe-corrosion 0
+565 103 599 103 599 201 565 201 severe-corrosion 0

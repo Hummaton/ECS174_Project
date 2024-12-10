@@ -1,0 +1,2 @@
+34 594 110 594 110 622 34 622 moderate-corrosion 0
+383 268 451 268 451 291 383 291 mild-corrosion 0

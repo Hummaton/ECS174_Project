@@ -1,0 +1,5 @@
+0 0 440 0 440 324 0 324 severe-corrosion 0
+399 28 529 28 529 640 399 640 severe-corrosion 0
+579 51 640 51 640 134 579 134 severe-corrosion 0
+0 459 28 459 28 529 0 529 severe-corrosion 0
+104 484 265 484 265 621 104 621 severe-corrosion 0

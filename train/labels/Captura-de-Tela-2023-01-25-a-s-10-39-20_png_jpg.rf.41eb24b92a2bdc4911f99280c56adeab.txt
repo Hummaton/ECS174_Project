@@ -1,0 +1,4 @@
+0 0 204 0 204 358 0 358 severe-corrosion 0
+595 174 640 174 640 234 595 234 moderate-corrosion 0
+477 358 640 358 640 640 477 640 severe-corrosion 0
+204 470 369 470 369 640 204 640 severe-corrosion 0

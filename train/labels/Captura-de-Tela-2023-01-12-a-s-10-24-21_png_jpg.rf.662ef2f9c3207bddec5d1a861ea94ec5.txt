@@ -1,0 +1,5 @@
+420 398 468 398 468 442 420 442 mild-corrosion 0
+0 341 210 341 210 414 0 414 mild-corrosion 0
+467 5 535 5 535 44 467 44 mild-corrosion 0
+268 66 335 66 335 128 268 128 mild-corrosion 0
+0 69 52 69 52 109 0 109 mild-corrosion 0

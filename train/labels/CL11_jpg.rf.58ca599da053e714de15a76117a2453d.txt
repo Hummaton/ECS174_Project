@@ -1,0 +1,7 @@
+500 319 621 319 621 635 500 635 severe-corrosion 0
+371 541 491 541 491 628 371 628 severe-corrosion 0
+110 381 392 381 392 480 110 480 severe-corrosion 0
+180 42 445 42 445 199 180 199 severe-corrosion 0
+76 336 98 336 98 375 76 375 severe-corrosion 0
+72 552 92 552 92 579 72 579 severe-corrosion 0
+31 524 59 524 59 560 31 560 severe-corrosion 0

@@ -1,0 +1,4 @@
+98 286 202 286 202 422 98 422 severe-corrosion 0
+38 104 90 104 90 202 38 202 moderate-corrosion 0
+96 151 127 151 127 200 96 200 mild-corrosion 0
+217 0 640 0 640 441 217 441 severe-corrosion 0

@@ -1,0 +1,7 @@
+586 269 616 269 616 323 586 323 severe-corrosion 0
+93 151 119 151 119 205 93 205 moderate-corrosion 0
+226 343 262 343 262 379 226 379 moderate-corrosion 0
+164 378 186 378 186 426 164 426 moderate-corrosion 0
+60 352 91 352 91 409 60 409 moderate-corrosion 0
+14 309 41 309 41 339 14 339 moderate-corrosion 0
+559 429 592 429 592 471 559 471 moderate-corrosion 0

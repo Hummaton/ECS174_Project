@@ -1,0 +1,2 @@
+0 0 93 0 93 108 0 108 severe-corrosion 0
+66 520 282 520 282 640 66 640 severe-corrosion 0

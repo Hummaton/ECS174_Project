@@ -1,0 +1,2 @@
+418 107 640 107 640 256 418 256 severe-corrosion 0
+495 256 640 256 640 640 495 640 moderate-corrosion 0

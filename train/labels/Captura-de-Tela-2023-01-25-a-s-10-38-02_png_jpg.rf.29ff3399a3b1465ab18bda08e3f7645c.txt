@@ -1,0 +1,7 @@
+626 412 640 412 640 554 626 554 severe-corrosion 0
+80 262 166 262 166 363 80 363 moderate-corrosion 0
+0 31 64 31 64 105 0 105 moderate-corrosion 0
+406 174 476 174 476 252 406 252 mild-corrosion 0
+283 425 329 425 329 493 283 493 moderate-corrosion 0
+207 543 261 543 261 609 207 609 moderate-corrosion 0
+244 87 274 87 274 137 244 137 mild-corrosion 0

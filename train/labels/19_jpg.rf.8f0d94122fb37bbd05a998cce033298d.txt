@@ -1,0 +1,2 @@
+342 262 560 262 560 386 342 386 severe-corrosion 0
+433 154 504 154 504 205 433 205 severe-corrosion 0

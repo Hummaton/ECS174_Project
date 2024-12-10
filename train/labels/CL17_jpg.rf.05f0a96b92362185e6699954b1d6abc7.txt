@@ -1,0 +1,2 @@
+400 314 436 314 436 339 400 339 moderate-corrosion 0
+393 410 488 410 488 558 393 558 severe-corrosion 0

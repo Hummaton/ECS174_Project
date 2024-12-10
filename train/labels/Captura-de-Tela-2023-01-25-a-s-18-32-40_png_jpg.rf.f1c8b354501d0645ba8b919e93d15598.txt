@@ -1,0 +1,3 @@
+0 289 384 289 384 566 0 566 severe-corrosion 0
+384 256 456 256 456 640 384 640 severe-corrosion 0
+567 256 640 256 640 640 567 640 severe-corrosion 0

@@ -1,0 +1,7 @@
+321 0 377 0 377 65 321 65 severe-corrosion 0
+491 60 566 60 566 126 491 126 severe-corrosion 0
+415 184 474 184 474 225 415 225 moderate-corrosion 0
+622 74 640 74 640 144 622 144 moderate-corrosion 0
+259 34 279 34 279 66 259 66 mild-corrosion 0
+211 259 406 259 406 640 211 640 severe-corrosion 0
+422 436 526 436 526 640 422 640 severe-corrosion 0

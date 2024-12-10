@@ -1,0 +1,3 @@
+589 108 636 108 636 167 589 167 moderate-corrosion 0
+464 41 513 41 513 163 464 163 moderate-corrosion 0
+0 391.353 313 391.353 313 640 0 640 severe-corrosion 0

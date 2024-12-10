@@ -1,0 +1,5 @@
+468 26 616 26 616 212 468 212 severe-corrosion 0
+459 0 640 0 640 4 459 4 moderate-corrosion 0
+436 473 640 473 640 640 436 640 moderate-corrosion 0
+153 3 210 3 210 636 153 636 moderate-corrosion 0
+257 4 310 4 310 639 257 639 moderate-corrosion 0

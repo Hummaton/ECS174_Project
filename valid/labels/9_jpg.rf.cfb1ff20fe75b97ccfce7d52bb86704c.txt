@@ -1,0 +1,3 @@
+39 323 199 323 199 476 39 476 severe-corrosion 0
+162 472 213 472 213 567 162 567 severe-corrosion 0
+507 98 555 98 555 178 507 178 moderate-corrosion 0

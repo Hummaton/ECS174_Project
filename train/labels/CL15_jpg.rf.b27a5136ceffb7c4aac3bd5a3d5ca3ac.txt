@@ -1,0 +1,7 @@
+10 195 38 195 38 295 10 295 mild-corrosion 0
+90 239 104 239 104 277 90 277 mild-corrosion 0
+174 0 246 0 246 202 174 202 moderate-corrosion 0
+323 0 390 0 390 38 323 38 moderate-corrosion 0
+399 22 547 22 547 236 399 236 moderate-corrosion 0
+253 420 459 420 459 481 253 481 severe-corrosion 0
+196 466 305 466 305 546 196 546 severe-corrosion 0

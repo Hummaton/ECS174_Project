@@ -1,0 +1,6 @@
+43 468 77 468 77 516 43 516 moderate-corrosion 0
+398 443 444 443 444 525 398 525 moderate-corrosion 0
+236 550 304 550 304 636 236 636 moderate-corrosion 0
+27 631 45 631 45 640 27 640 moderate-corrosion 0
+171 381 189 381 189 406 171 406 severe-corrosion 0
+0 500 8 500 8 536 0 536 severe-corrosion 0

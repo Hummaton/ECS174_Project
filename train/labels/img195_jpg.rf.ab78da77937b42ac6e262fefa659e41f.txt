@@ -1,0 +1,7 @@
+53 48 332 48 332 345 53 345 severe-corrosion 0
+27 316 38 316 38 330 27 330 moderate-corrosion 0
+23 264 31 264 31 299 23 299 moderate-corrosion 0
+340 0 640 0 640 160.506 340 160.506 severe-corrosion 0
+0 345 332 345 332 640 0 640 severe-corrosion 0
+568 345 640 345 640 640 568 640 moderate-corrosion 0
+332 345 537 345 537 640 332 640 severe-corrosion 0

@@ -1,0 +1,3 @@
+68 336 224 336 224 480 68 480 severe-corrosion 0
+198 486 247 486 247 579 198 579 severe-corrosion 0
+521 131 567 131 567 209 521 209 moderate-corrosion 0

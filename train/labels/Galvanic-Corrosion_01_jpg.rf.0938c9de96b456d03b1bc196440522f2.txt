@@ -1,0 +1,4 @@
+371 0 640 0 640 332 371 332 severe-corrosion 0
+282 512 371 512 371 576 282 576 severe-corrosion 0
+74 470 263 470 263 581 74 581 severe-corrosion 0
+0 525 171 525 171 640 0 640 severe-corrosion 0

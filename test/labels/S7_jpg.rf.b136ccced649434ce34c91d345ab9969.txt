@@ -1,0 +1,2 @@
+269 464 477 464 477 640 269 640 severe-corrosion 0
+0 88 640 88 640 478 0 478 moderate-corrosion 0

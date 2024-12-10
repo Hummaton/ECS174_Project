@@ -1,0 +1,2 @@
+0 23.35 473 23.35 473 371 0 371 severe-corrosion 0
+473 0 640 0 640 371 473 371 severe-corrosion 0

@@ -1,0 +1,3 @@
+481 69 565 69 565 183 481 183 mild-corrosion 0
+262 0 416 0 416 109 262 109 mild-corrosion 0
+0 315 68 315 68 437 0 437 mild-corrosion 0

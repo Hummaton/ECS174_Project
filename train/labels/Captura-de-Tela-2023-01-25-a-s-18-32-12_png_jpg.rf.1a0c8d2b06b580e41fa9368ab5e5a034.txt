@@ -1,0 +1,2 @@
+403 384 483 384 483 640 403 640 severe-corrosion 0
+480 514 563 514 563 640 480 640 moderate-corrosion 0

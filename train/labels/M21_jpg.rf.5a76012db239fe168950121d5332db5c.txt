@@ -1,0 +1,8 @@
+70 40 154 40 154 564 70 564 severe-corrosion 0
+204 40 278 40 278 411 204 411 severe-corrosion 0
+315 60 413 60 413 486 315 486 severe-corrosion 0
+431 0 575 0 575 547 431 547 severe-corrosion 0
+584 46 640 46 640 640 584 640 severe-corrosion 0
+0 0 23 0 23 380 0 380 severe-corrosion 0
+0 528 23 528 23 640 0 640 moderate-corrosion 0
+589 0 640 0 640 4 589 4 severe-corrosion 0

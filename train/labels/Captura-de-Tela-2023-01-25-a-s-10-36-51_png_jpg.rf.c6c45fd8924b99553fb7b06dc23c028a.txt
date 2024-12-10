@@ -1,0 +1,5 @@
+583 637 640 637 640 640 583 640 moderate-corrosion 0
+389 481 613 481 613 588 389 588 moderate-corrosion 0
+0 50 112 50 112 143 0 143 moderate-corrosion 0
+276 0 420 0 420 2 276 2 moderate-corrosion 0
+399 40 640 40 640 209 399 209 moderate-corrosion 0

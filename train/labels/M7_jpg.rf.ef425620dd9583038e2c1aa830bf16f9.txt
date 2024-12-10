@@ -1,0 +1,6 @@
+71 3 188 3 188 640 71 640 severe-corrosion 0
+339 3 450 3 450 640 339 640 severe-corrosion 0
+615 504 639 504 639 640 615 640 severe-corrosion 0
+494 3 608 3 608 587 494 587 moderate-corrosion 0
+600 3 640 3 640 227 600 227 moderate-corrosion 0
+465 594 613 594 613 640 465 640 severe-corrosion 0

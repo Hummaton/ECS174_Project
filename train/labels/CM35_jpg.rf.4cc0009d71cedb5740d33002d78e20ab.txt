@@ -1,0 +1,6 @@
+67 18 340 18 340 275 67 275 severe-corrosion 0
+264 306 640 306 640 610 264 610 severe-corrosion 0
+420 83 611 83 611 343 420 343 severe-corrosion 0
+2 485 43 485 43 569 2 569 severe-corrosion 0
+94 576 183 576 183 625 94 625 severe-corrosion 0
+204 560 263 560 263 610 204 610 severe-corrosion 0

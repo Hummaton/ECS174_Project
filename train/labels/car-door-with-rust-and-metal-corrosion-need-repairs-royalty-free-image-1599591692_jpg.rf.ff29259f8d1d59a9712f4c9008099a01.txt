@@ -1,0 +1,5 @@
+0 418 333 418 333 520 0 520 severe-corrosion 0
+336 406 414 406 414 443 336 443 severe-corrosion 0
+133 266 186 266 186 341 133 341 severe-corrosion 0
+12 350 38 350 38 390 12 390 severe-corrosion 0
+393 279 418 279 418 324 393 324 severe-corrosion 0

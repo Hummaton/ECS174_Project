@@ -1,0 +1,2 @@
+345 182 408 182 408 330 345 330 severe-corrosion 0
+224 150 413 150 413 640 224 640 severe-corrosion 0

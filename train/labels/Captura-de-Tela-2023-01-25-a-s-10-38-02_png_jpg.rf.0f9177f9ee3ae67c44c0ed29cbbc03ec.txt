@@ -1,0 +1,6 @@
+490 342 640 342 640 550 490 550 severe-corrosion 0
+0 151 239 151 239 365 0 365 severe-corrosion 0
+84 420 226 420 226 533 84 533 severe-corrosion 0
+328 299 364 299 364 363 328 363 moderate-corrosion 0
+0 509 12 509 12 606 0 606 severe-corrosion 0
+423 85 449 85 449 127 423 127 mild-corrosion 0

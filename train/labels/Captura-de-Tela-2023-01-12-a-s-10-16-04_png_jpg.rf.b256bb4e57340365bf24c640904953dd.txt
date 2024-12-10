@@ -1,0 +1,3 @@
+0 1 162 1 162 131 0 131 mild-corrosion 0
+28 195 284 195 284 370 28 370 mild-corrosion 0
+215 592 313 592 313 640 215 640 mild-corrosion 0

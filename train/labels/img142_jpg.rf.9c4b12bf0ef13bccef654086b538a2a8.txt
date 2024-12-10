@@ -1,0 +1,4 @@
+262 473 640 473 640 640 262 640 corroded-part 0
+5 18 262 18 262 470 5 470 severe-corrosion 0
+269 20 640 20 640 470 269 470 severe-corrosion 0
+5 517 258 517 258 639 5 639 severe-corrosion 0

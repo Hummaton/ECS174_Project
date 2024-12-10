@@ -1,0 +1,4 @@
+71 0 188 0 188 637 71 637 severe-corrosion 0
+339 0 450 0 450 637 339 637 severe-corrosion 0
+615 0 639 0 639 634 615 634 severe-corrosion 0
+465 0 613 0 613 637 465 637 severe-corrosion 0

@@ -1,0 +1,2 @@
+0 0 640 0 640 177.735 0 177.735 severe-corrosion 0
+444 498 488 498 488 614 444 614 moderate-corrosion 0

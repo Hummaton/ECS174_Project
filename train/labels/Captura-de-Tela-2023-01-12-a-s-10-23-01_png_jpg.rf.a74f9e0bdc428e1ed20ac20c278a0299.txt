@@ -1,0 +1,3 @@
+0 0 377 0 377 313 0 313 moderate-corrosion 0
+489 174 635 174 635 313 489 313 severe-corrosion 0
+328 344 377 344 377 410 328 410 mild-corrosion 0

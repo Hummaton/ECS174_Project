@@ -1,0 +1,4 @@
+0 348.246 640 348.246 640 640 0 640 severe-corrosion 0
+0 0 80 0 80 142 0 142 mild-corrosion 0
+39 152 125 152 125 286 39 286 mild-corrosion 0
+554 116 640 116 640 284 554 284 severe-corrosion 0

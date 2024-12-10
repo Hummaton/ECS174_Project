@@ -1,0 +1,5 @@
+0 42 51 42 51 140 0 140 mild-corrosion 0
+268 84 640 84 640 186 268 186 moderate-corrosion 0
+335 352 435 352 435 362 335 362 moderate-corrosion 0
+380 414 418 414 418 428 380 428 moderate-corrosion 0
+554 580 588 580 588 604 554 604 mild-corrosion 0

@@ -1,0 +1,4 @@
+407 10 640 10 640 640 407 640 severe-corrosion 0
+298 109 399 109 399 640 298 640 severe-corrosion 0
+141 8 231 8 231 541 141 541 severe-corrosion 0
+26 217 104 217 104 623 26 623 severe-corrosion 0

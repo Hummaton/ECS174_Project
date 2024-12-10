@@ -1,0 +1,2 @@
+224 235 640 235 640 352 224 352 severe-corrosion 0
+224 0 640 0 640 124 224 124 severe-corrosion 0

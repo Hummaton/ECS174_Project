@@ -1,0 +1,4 @@
+0 0 352 0 352 60.736 0 60.736 severe-corrosion 0
+458 38 470 38 470 65 458 65 mild-corrosion 0
+21 322 237 322 237 458 21 458 severe-corrosion 0
+352 236 640 236 640 640 352 640 severe-corrosion 0

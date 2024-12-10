@@ -1,0 +1,4 @@
+0 215 262 215 262 370 0 370 severe-corrosion 0
+134 587 223 587 223 622 134 622 severe-corrosion 0
+0 588 55 588 55 612 0 612 severe-corrosion 0
+626 44 640 44 640 73 626 73 mild-corrosion 0

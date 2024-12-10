@@ -1,0 +1,3 @@
+345 80 377 80 377 315 345 315 severe-corrosion 0
+394 84 441 84 441 314 394 314 severe-corrosion 0
+326 377 640 377 640 640 326 640 severe-corrosion 0

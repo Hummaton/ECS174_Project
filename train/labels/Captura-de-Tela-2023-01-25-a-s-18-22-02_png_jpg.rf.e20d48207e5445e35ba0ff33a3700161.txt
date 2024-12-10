@@ -1,0 +1,4 @@
+422 0 527 0 527 84 422 84 mild-corrosion 0
+435 99 640 99 640 341 435 341 moderate-corrosion 0
+59 480 118 480 118 556 59 556 mild-corrosion 0
+332 445 366 445 366 489 332 489 mild-corrosion 0

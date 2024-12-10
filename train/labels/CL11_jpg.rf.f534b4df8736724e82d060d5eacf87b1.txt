@@ -1,0 +1,3 @@
+574 330 640 330 640 526 574 526 severe-corrosion 0
+360 0 579 0 579 228 360 228 moderate-corrosion 0
+505 559 640 559 640 640 505 640 moderate-corrosion 0

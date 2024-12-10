@@ -1,0 +1,2 @@
+0 0 6 0 6 15 0 15 mild-corrosion 0
+0 403 168.998 403 168.998 524.756 0 524.756 severe-corrosion 0

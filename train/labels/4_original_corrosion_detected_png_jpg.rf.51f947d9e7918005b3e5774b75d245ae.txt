@@ -1,0 +1,2 @@
+164 465 236 465 236 621 164 621 mild-corrosion 0
+0 0 212 0 212 474 0 474 moderate-corrosion 0

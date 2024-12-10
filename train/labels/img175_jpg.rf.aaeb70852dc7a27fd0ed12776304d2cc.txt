@@ -1,0 +1,2 @@
+307 435 640 435 640 640 307 640 severe-corrosion 0
+109 436 234 436 234 640 109 640 moderate-corrosion 0

@@ -1,0 +1,6 @@
+0 0 86 0 86 102 0 102 severe-corrosion 0
+362 342 448 342 448 502 362 502 severe-corrosion 0
+606 362 640 362 640 640 606 640 severe-corrosion 0
+626 0 640 0 640 50 626 50 mild-corrosion 0
+199 226 275 226 275 320 199 320 moderate-corrosion 0
+514 112 634 112 634 332 514 332 mild-corrosion 0

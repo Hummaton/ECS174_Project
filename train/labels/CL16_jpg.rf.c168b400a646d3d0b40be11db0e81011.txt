@@ -1,0 +1,2 @@
+56 83 418 83 418 336 56 336 mild-corrosion 0
+137 599 165 599 165 616 137 616 severe-corrosion 0

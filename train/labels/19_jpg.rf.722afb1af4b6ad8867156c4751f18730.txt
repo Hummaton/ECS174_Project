@@ -1,0 +1,2 @@
+342 346 560 346 560 473 342 473 severe-corrosion 0
+433 247 504 247 504 298 433 298 severe-corrosion 0

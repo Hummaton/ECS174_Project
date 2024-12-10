@@ -1,0 +1,4 @@
+597 58 640 58 640 636 597 636 severe-corrosion 0
+540 311 636 311 636 383 540 383 moderate-corrosion 0
+0 0 307 0 307 544 0 544 moderate-corrosion 0
+363 63 621 63 621 137 363 137 moderate-corrosion 0
