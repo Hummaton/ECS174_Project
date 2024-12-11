@@ -1,8 +1,3 @@
-%pip install scikit-learn
-%pip install torch torchvision
-%pip install ultralytics
-%pip install matplotlib
-
 import os
 from sklearn.metrics import precision_score, recall_score, f1_score, accuracy_score
 
@@ -13,9 +8,6 @@ from torchvision.transforms import Compose, ToTensor, Normalize
 from tqdm import tqdm
 from ultralytics import YOLO  # YOLOv5 framework
 import matplotlib.pyplot as plt
-
-# Ensure plots are displayed in the notebook
-%matplotlib inline
 
 # === Data Preprocessing ===
 def convert_to_yolo_format(bbox_list, image_width, image_height):
