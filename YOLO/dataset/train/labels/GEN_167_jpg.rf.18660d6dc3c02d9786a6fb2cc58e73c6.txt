@@ -1,0 +1,2 @@
+234 10 379 10 379 631 234 631 severe-corrosion 0
+48 273 168 273 168 538 48 538 moderate-corrosion 0

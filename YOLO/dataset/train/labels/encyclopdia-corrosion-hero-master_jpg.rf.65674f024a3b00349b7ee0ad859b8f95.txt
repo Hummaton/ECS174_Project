@@ -1,0 +1,2 @@
+0 0 256 0 256 230 0 230 corroded-part 0
+256 0 640 0 640 230 256 230 severe-corrosion 0

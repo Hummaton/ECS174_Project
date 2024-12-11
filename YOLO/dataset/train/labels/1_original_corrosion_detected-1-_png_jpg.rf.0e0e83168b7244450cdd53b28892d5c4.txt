@@ -1,0 +1,3 @@
+66 0 282 0 282 160 66 160 severe-corrosion 0
+389 170 437 170 437 234 389 234 severe-corrosion 0
+61 287 141 287 141 418 61 418 severe-corrosion 0

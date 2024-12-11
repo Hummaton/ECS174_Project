@@ -1,0 +1,4 @@
+387 307 526 307 526 640 387 640 severe-corrosion 0
+0 251 64 251 64 436 0 436 severe-corrosion 0
+192 62 640 62 640 318 192 318 moderate-corrosion 0
+0 206 58 206 58 255 0 255 mild-corrosion 0

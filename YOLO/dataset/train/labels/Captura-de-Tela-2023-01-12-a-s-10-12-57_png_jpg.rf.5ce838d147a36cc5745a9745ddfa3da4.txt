@@ -1,0 +1,2 @@
+252 123 299 123 299 168 252 168 mild-corrosion 0
+200 182 387 182 387 548 200 548 moderate-corrosion 0

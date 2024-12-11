@@ -1,0 +1,4 @@
+93 54 216 54 216 303 93 303 moderate-corrosion 0
+377 29 441 29 441 640 377 640 moderate-corrosion 0
+256 65 361 65 361 579 256 579 mild-corrosion 0
+430 0 535 0 535 18 430 18 mild-corrosion 0

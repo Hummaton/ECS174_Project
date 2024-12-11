@@ -1,0 +1,5 @@
+424 0 484 0 484 94 424 94 moderate-corrosion 0
+335 101 361 101 361 131 335 131 moderate-corrosion 0
+266 88 296 88 296 145 266 145 moderate-corrosion 0
+499 41 585 41 585 131 499 131 moderate-corrosion 0
+609 0 634 0 634 33 609 33 mild-corrosion 0

@@ -1,0 +1,3 @@
+0 488.077 160 488.077 160 640 0 640 severe-corrosion 0
+13 519 59 519 59 562 13 562 severe-corrosion 0
+362 533 551 533 551 640 362 640 moderate-corrosion 0

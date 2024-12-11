@@ -1,0 +1,2 @@
+3 185 640 185 640 388 3 388 severe-corrosion 0
+3 0 640 0 640 182 3 182 severe-corrosion 0

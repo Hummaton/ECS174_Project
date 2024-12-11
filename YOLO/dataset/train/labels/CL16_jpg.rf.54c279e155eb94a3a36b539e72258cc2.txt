@@ -1,0 +1,2 @@
+25 120 365 120 365 348 25 348 mild-corrosion 0
+27 608 54 608 54 623 27 623 severe-corrosion 0

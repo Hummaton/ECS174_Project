@@ -1,0 +1,2 @@
+0 0 217 0 217 275 0 275 severe-corrosion 0
+308 431 518 431 518 575 308 575 moderate-corrosion 0

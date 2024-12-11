@@ -1,0 +1,4 @@
+561 0 640 0 640 186 561 186 severe-corrosion 0
+0 0 556 0 556 37 0 37 severe-corrosion 0
+241 598 394 598 394 640 241 640 mild-corrosion 0
+139 176 223 176 223 274 139 274 mild-corrosion 0

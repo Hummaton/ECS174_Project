@@ -1,0 +1,5 @@
+371 0 462 0 462 473 371 473 severe-corrosion 0
+453 0 640 0 640 473 453 473 severe-corrosion 0
+251 473 337 473 337 640 251 640 severe-corrosion 0
+129 474 209 474 209 522 129 522 moderate-corrosion 0
+456 473 640 473 640 526 456 526 severe-corrosion 0

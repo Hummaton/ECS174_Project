@@ -1,0 +1,3 @@
+615 0 634 0 634 27 615 27 mild-corrosion 0
+561 82 577 82 577 98 561 98 mild-corrosion 0
+384 384 640 384 640 640 384 640 severe-corrosion 0

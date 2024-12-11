@@ -1,0 +1,5 @@
+376 0 539 0 539 637 376 637 severe-corrosion 0
+83 20 132 20 132 540 83 540 severe-corrosion 0
+3 0 83 0 83 634 3 634 severe-corrosion 0
+273 29 345 29 345 219 273 219 mild-corrosion 0
+155 239 312 239 312 640 155 640 mild-corrosion 0

@@ -1,0 +1,8 @@
+358 14.127 624 14.127 624 352 358 352 severe-corrosion 0
+570 80 588 80 588 147 570 147 mild-corrosion 0
+464 0 484 0 484 8 464 8 mild-corrosion 0
+0 588 358 588 358 640 0 640 severe-corrosion 0
+0 352 358 352 358 382 0 382 severe-corrosion 0
+0 404 358 404 358 542 0 542 severe-corrosion 0
+589 464 638 464 638 526 589 526 severe-corrosion 0
+586 402 640 402 640 458 586 458 moderate-corrosion 0

@@ -1,0 +1,4 @@
+0 0 77 0 77 364 0 364 severe-corrosion 0
+375 0 486 0 486 364 375 364 severe-corrosion 0
+296 364 345 364 345 588 296 588 severe-corrosion 0
+89 364 276 364 276 606 89 606 severe-corrosion 0

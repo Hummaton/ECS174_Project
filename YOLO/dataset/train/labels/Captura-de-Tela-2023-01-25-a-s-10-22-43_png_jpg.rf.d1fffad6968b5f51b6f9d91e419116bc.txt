@@ -1,0 +1,16 @@
+0 0 92 0 92 24 0 24 moderate-corrosion 0
+204 83 240 83 240 115 204 115 moderate-corrosion 0
+153 33 179 33 179 56 153 56 moderate-corrosion 0
+243 152 283 152 283 179 243 179 moderate-corrosion 0
+320 171 356 171 356 196 320 196 moderate-corrosion 0
+421 72 428 72 428 96 421 96 mild-corrosion 0
+47 224 93 224 93 252 47 252 moderate-corrosion 0
+149 249 170 249 170 262 149 262 mild-corrosion 0
+299 75 326 75 326 89 299 89 mild-corrosion 0
+34 27 53 27 53 37 34 37 mild-corrosion 0
+59 41 85 41 85 56 59 56 mild-corrosion 0
+128 85 138 85 138 95 128 95 mild-corrosion 0
+428 79 592 79 592 181 428 181 moderate-corrosion 0
+584 153 640 153 640 252 584 252 severe-corrosion 0
+4 344 68 344 68 386 4 386 moderate-corrosion 0
+428 262 640 262 640 620.186 428 620.186 severe-corrosion 0

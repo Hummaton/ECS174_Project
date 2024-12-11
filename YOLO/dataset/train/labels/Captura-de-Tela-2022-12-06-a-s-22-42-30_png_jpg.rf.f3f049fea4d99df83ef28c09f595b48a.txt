@@ -1,0 +1,5 @@
+55 0 460 0 460 424 55 424 severe-corrosion 0
+0 120 26 120 26 379 0 379 mild-corrosion 0
+578 372 640 372 640 496 578 496 mild-corrosion 0
+543 0 613 0 613 92 543 92 mild-corrosion 0
+599 152 640 152 640 223 599 223 mild-corrosion 0

@@ -1,0 +1,5 @@
+0 0 352 0 352 228 0 228 severe-corrosion 0
+352 0 640 0 640 345 352 345 severe-corrosion 0
+352 261.154 375.956 261.154 375.956 345 352 345 severe-corrosion 0
+0 489 352 489 352 640 0 640 severe-corrosion 0
+0 345 352 345 352 486 0 486 severe-corrosion 0

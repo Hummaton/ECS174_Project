@@ -1,0 +1,4 @@
+170 259 196 259 196 301 170 301 moderate-corrosion 0
+63 246 84 246 84 284 63 284 moderate-corrosion 0
+249 326 640 326 640 493 249 493 severe-corrosion 0
+249 600 640 600 640 640 249 640 severe-corrosion 0

@@ -1,0 +1,2 @@
+0 174 245 174 245 561 0 561 severe-corrosion 0
+507 303 562 303 562 382 507 382 mild-corrosion 0

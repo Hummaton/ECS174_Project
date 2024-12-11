@@ -1,0 +1,3 @@
+35 431 371 431 371 640 35 640 moderate-corrosion 0
+435 0 640 0 640 640 435 640 severe-corrosion 0
+179 171 239 171 239 245 179 245 mild-corrosion 0

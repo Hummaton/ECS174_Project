@@ -1,0 +1,2 @@
+234 40 288 40 288 640 234 640 moderate-corrosion 0
+190 308 232 308 232 396 190 396 mild-corrosion 0

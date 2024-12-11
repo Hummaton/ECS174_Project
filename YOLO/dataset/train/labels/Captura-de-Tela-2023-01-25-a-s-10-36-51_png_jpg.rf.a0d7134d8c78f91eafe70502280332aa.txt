@@ -1,0 +1,7 @@
+477 480 640 480 640 640 477 640 severe-corrosion 0
+0 637 264 637 264 640 0 640 moderate-corrosion 0
+474 29 640 29 640 209 474 209 severe-corrosion 0
+201 256 338 256 338 342 201 342 severe-corrosion 0
+0 41 51 41 51 210 0 210 moderate-corrosion 0
+449 262 607 262 607 349 449 349 mild-corrosion 0
+254 374 328 374 328 434 254 434 mild-corrosion 0

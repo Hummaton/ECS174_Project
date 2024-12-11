@@ -1,0 +1,2 @@
+214 403 326 403 326 640 214 640 moderate-corrosion 0
+468 345 640 345 640 640 468 640 severe-corrosion 0

@@ -1,0 +1,5 @@
+0 0 62 0 62 72 0 72 mild-corrosion 0
+44 347 188 347 188 535 44 535 moderate-corrosion 0
+456 507 498 507 498 581 456 581 mild-corrosion 0
+259 540 291 540 291 583 259 583 mild-corrosion 0
+40 616 92 616 92 640 40 640 mild-corrosion 0

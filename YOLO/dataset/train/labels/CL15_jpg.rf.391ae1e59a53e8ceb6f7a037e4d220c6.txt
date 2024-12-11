@@ -1,0 +1,3 @@
+588 574 640 574 640 630 588 630 moderate-corrosion 0
+501 249 613 249 613 289 501 289 moderate-corrosion 0
+620 40 640 40 640 130 620 130 mild-corrosion 0

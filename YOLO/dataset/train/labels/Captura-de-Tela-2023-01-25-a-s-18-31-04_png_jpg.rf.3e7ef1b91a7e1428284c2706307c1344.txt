@@ -1,0 +1,5 @@
+256 0 640 0 640 111 256 111 severe-corrosion 0
+428 149 601 149 601 230 428 230 moderate-corrosion 0
+0 230 256 230 256 640 0 640 severe-corrosion 0
+256 407 640 407 640 570 256 570 severe-corrosion 0
+256 230 640 230 640 376 256 376 mild-corrosion 0

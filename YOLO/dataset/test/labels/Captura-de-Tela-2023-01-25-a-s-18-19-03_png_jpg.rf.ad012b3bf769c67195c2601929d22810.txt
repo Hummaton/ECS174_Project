@@ -1,0 +1,2 @@
+513 337 591 337 591 615 513 615 severe-corrosion 0
+181 517 281 517 281 592 181 592 moderate-corrosion 0

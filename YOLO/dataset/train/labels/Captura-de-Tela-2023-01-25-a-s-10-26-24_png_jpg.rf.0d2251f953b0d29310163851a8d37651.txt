@@ -1,0 +1,2 @@
+0 0 640 0 640 329.536 0 329.536 severe-corrosion 0
+511 542 541 542 541 620 511 620 moderate-corrosion 0

@@ -1,0 +1,2 @@
+235 0 289 0 289 130 235 130 moderate-corrosion 0
+574 505 631 505 631 640 574 640 mild-corrosion 0

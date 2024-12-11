@@ -1,0 +1,2 @@
+0 0 198 0 198 153 0 153 moderate-corrosion 0
+0 480 198 480 198 640 0 640 corroded-part 0

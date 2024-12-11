@@ -1,0 +1,6 @@
+431 324 575 324 575 640 431 640 severe-corrosion 0
+0 552 23 552 23 640 0 640 severe-corrosion 0
+589 0 640 0 640 640 589 640 severe-corrosion 0
+198 79 277 79 277 225 198 225 moderate-corrosion 0
+214 406 274 406 274 614 214 614 moderate-corrosion 0
+72 123 144 123 144 255 72 255 moderate-corrosion 0

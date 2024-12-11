@@ -1,0 +1,11 @@
+245 207 354 207 354 334 245 334 moderate-corrosion 0
+21 66 54 66 54 99 21 99 mild-corrosion 0
+11 94 25 94 25 112 11 112 mild-corrosion 0
+28 0 49 0 49 14 28 14 mild-corrosion 0
+58 17 69 17 69 33 58 33 mild-corrosion 0
+365 536 393 536 393 564 365 564 mild-corrosion 0
+404 192 430 192 430 213 404 213 mild-corrosion 0
+321 122 371 122 371 154 321 154 mild-corrosion 0
+356 33 391 33 391 72 356 72 mild-corrosion 0
+47 217 69 217 69 240 47 240 mild-corrosion 0
+75 137 78 137 78 143 75 143 mild-corrosion 0

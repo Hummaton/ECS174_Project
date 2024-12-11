@@ -1,0 +1,2 @@
+37 94 113 94 113 122 37 122 moderate-corrosion 0
+386 425 454 425 454 473 386 473 mild-corrosion 0

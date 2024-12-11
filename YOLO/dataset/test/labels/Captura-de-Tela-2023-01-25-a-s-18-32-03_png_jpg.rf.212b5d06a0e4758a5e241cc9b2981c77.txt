@@ -1,0 +1,5 @@
+192 243 640 243 640 340 192 340 severe-corrosion 0
+192 89 640 89 640 183 192 183 severe-corrosion 0
+192 0 640 0 640 43 192 43 severe-corrosion 0
+265 183 357 183 357 225 265 225 moderate-corrosion 0
+539 209 621 209 621 238 539 238 moderate-corrosion 0

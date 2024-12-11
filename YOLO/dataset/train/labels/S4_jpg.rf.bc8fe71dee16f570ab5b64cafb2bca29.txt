@@ -1,0 +1,2 @@
+199 341 519 341 519 393 199 393 moderate-corrosion 0
+250 221 296 221 296 253 250 253 mild-corrosion 0

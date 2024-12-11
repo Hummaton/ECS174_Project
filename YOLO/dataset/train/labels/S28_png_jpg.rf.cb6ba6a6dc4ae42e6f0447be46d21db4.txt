@@ -1,0 +1,10 @@
+222 301 471 301 471 637 222 637 severe-corrosion 0
+474 0 560 0 560 637 474 637 severe-corrosion 0
+0 581 55 581 55 640 0 640 severe-corrosion 0
+248 16 378 16 378 63 248 63 moderate-corrosion 0
+352 65 432 65 432 113 352 113 moderate-corrosion 0
+584 40 640 40 640 357 584 357 mild-corrosion 0
+44 75 327 75 327 180 44 180 severe-corrosion 0
+358 143 474 143 474 312 358 312 severe-corrosion 0
+18 300 218 300 218 479 18 479 severe-corrosion 0
+55 533 227 533 227 632 55 632 severe-corrosion 0

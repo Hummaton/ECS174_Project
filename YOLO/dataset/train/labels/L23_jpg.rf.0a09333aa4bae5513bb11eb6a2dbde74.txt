@@ -1,0 +1,4 @@
+24 304 153 304 153 640 24 640 severe-corrosion 0
+172 286 360 286 360 640 172 640 severe-corrosion 0
+406 274 572 274 572 640 406 640 severe-corrosion 0
+606 3 640 3 640 640 606 640 severe-corrosion 0

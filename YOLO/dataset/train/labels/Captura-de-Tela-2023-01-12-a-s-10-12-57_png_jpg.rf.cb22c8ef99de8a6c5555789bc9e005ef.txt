@@ -1,0 +1,2 @@
+277 154 320 154 320 202 277 202 mild-corrosion 0
+271 214 429 214 429 591 271 591 moderate-corrosion 0

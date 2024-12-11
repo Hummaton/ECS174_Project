@@ -1,0 +1,2 @@
+400 50 459 50 459 132 400 132 mild-corrosion 0
+0 230 236 230 236 640 0 640 severe-corrosion 0

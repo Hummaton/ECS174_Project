@@ -1,0 +1,2 @@
+146 594 259 594 259 640 146 640 mild-corrosion 0
+73 295 162 295 162 441 73 441 moderate-corrosion 0

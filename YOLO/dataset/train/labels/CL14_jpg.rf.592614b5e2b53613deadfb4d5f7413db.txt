@@ -1,0 +1,4 @@
+389 170 640 170 640 325 389 325 severe-corrosion 0
+447 542 538 542 538 577 447 577 moderate-corrosion 0
+616 543 640 543 640 567 616 567 moderate-corrosion 0
+0 0 20 0 20 25 0 25 mild-corrosion 0

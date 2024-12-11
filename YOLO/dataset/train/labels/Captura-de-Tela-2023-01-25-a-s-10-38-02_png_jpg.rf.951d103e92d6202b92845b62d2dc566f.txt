@@ -1,0 +1,7 @@
+0 413 56 413 56 555 0 555 severe-corrosion 0
+36 101 82 101 82 182 36 182 moderate-corrosion 0
+177 149 217 149 217 199 177 199 moderate-corrosion 0
+169 262 211 262 211 338 169 338 moderate-corrosion 0
+599 351 640 351 640 396 599 396 mild-corrosion 0
+461 281 518 281 518 329 461 329 moderate-corrosion 0
+464 541 518 541 518 592 464 592 moderate-corrosion 0

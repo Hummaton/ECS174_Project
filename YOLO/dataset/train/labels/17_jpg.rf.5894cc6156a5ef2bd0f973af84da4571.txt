@@ -1,0 +1,2 @@
+221 86 317 86 317 186 221 186 severe-corrosion 0
+0 0 46 0 46 43 0 43 moderate-corrosion 0

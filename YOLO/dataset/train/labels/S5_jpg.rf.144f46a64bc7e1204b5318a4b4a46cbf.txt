@@ -1,0 +1,13 @@
+371 2 453 2 453 368 371 368 severe-corrosion 0
+212 169 274 169 274 293 212 293 moderate-corrosion 0
+566 2 638 2 638 405 566 405 severe-corrosion 0
+368 433 417 433 417 495 368 495 severe-corrosion 0
+105 6 137 6 137 330 105 330 moderate-corrosion 0
+54 321 107 321 107 456 54 456 moderate-corrosion 0
+145 603 163 603 163 640 145 640 moderate-corrosion 0
+575 423 627 423 627 639 575 639 moderate-corrosion 0
+473 13 563 13 563 428 473 428 moderate-corrosion 0
+366 372 436 372 436 428 366 428 moderate-corrosion 0
+358 582 562 582 562 640 358 640 moderate-corrosion 0
+142 8 194 8 194 211 142 211 moderate-corrosion 0
+152 254 199 254 199 312 152 312 mild-corrosion 0

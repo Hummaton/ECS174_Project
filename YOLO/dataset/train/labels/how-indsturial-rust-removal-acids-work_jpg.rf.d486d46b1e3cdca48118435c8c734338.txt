@@ -1,0 +1,2 @@
+339 0 640 0 640 243 339 243 severe-corrosion 0
+0 243 339 243 339 566.883 0 566.883 severe-corrosion 0

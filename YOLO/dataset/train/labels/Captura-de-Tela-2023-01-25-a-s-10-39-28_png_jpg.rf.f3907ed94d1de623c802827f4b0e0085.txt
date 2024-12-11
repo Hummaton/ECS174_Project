@@ -1,0 +1,2 @@
+0 0 390 0 390 371 0 371 severe-corrosion 0
+0 371 390 371 390 640 0 640 severe-corrosion 0

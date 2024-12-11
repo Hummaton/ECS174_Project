@@ -1,0 +1,2 @@
+0 320 352 320 352 640 0 640 severe-corrosion 0
+437 329 460 329 460 340 437 340 mild-corrosion 0

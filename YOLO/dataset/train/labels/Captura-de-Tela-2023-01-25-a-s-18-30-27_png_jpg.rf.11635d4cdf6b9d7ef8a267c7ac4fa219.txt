@@ -1,0 +1,3 @@
+373 0 407 0 407 55 373 55 mild-corrosion 0
+165 379 319 379 319 640 165 640 severe-corrosion 0
+31 339 129 339 129 605 31 605 severe-corrosion 0

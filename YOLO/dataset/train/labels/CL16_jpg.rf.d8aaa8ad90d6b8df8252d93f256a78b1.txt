@@ -1,0 +1,2 @@
+288 287 632 287 632 515 288 515 severe-corrosion 0
+563 5 590 5 590 20 563 20 mild-corrosion 0

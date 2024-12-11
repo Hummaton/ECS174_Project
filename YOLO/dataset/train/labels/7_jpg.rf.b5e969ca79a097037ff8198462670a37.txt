@@ -1,0 +1,3 @@
+128 75 527 75 527 356 128 356 severe-corrosion 0
+359 384 497 384 497 580 359 580 moderate-corrosion 0
+16 40 136 40 136 183 16 183 moderate-corrosion 0

@@ -1,0 +1,2 @@
+41 243 145 243 145 289 41 289 mild-corrosion 0
+325 218 424 218 424 300 325 300 moderate-corrosion 0

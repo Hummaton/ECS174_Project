@@ -1,0 +1,6 @@
+65 40 211 40 211 214 65 214 moderate-corrosion 0
+294 52 380 52 380 191 294 191 moderate-corrosion 0
+422 367 596 367 596 583 422 583 moderate-corrosion 0
+205 291 250 291 250 350 205 350 moderate-corrosion 0
+10 487 45 487 45 551 10 551 moderate-corrosion 0
+104 602 160 602 160 640 104 640 moderate-corrosion 0

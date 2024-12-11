@@ -1,0 +1,11 @@
+194 199 308 199 308 328 194 328 moderate-corrosion 0
+7 65 41 65 41 99 7 99 mild-corrosion 0
+0 93 8 93 8 112 0 112 mild-corrosion 0
+26 0 48 0 48 13 26 13 mild-corrosion 0
+53 16 64 16 64 32 53 32 mild-corrosion 0
+271 527 300 527 300 556 271 556 mild-corrosion 0
+364 182 390 182 390 204 364 204 mild-corrosion 0
+292 114 343 114 343 147 292 147 mild-corrosion 0
+340 24 376 24 376 64 340 64 mild-corrosion 0
+10 216 33 216 33 239 10 239 mild-corrosion 0
+52 135 56 135 56 141 52 141 mild-corrosion 0

@@ -1,0 +1,4 @@
+425 337 548 337 548 586 425 586 moderate-corrosion 0
+209 9 273 9 273 640 209 640 moderate-corrosion 0
+284 17 389 17 389 423 284 423 moderate-corrosion 0
+303 509 397 509 397 623 303 623 mild-corrosion 0

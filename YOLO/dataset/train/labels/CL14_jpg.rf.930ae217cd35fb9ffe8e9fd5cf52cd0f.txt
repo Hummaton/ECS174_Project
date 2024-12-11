@@ -1,0 +1,4 @@
+369 125 634 125 634 299 369 299 severe-corrosion 0
+399 507 489 507 489 549 399 549 moderate-corrosion 0
+568 498 628 498 628 526 568 526 moderate-corrosion 0
+0 0 18 0 18 25 0 25 mild-corrosion 0

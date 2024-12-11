@@ -1,0 +1,2 @@
+249 0 349 0 349 57 249 57 severe-corrosion 0
+297 374 527 374 527 484 297 484 severe-corrosion 0

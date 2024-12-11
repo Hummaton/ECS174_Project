@@ -1,0 +1,4 @@
+574 0 630 0 630 148 574 148 mild-corrosion 0
+40 0 130 0 130 128 40 128 mild-corrosion 0
+59 347 135 347 135 463 59 463 severe-corrosion 0
+391 230 439 230 439 298 391 298 severe-corrosion 0

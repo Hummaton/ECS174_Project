@@ -1,0 +1,4 @@
+16 69 222 69 222 173 16 173 severe-corrosion 0
+332 0 640 0 640 326 332 326 severe-corrosion 0
+0 326 332 326 332 640 0 640 severe-corrosion 0
+379 361 533 361 533 416 379 416 moderate-corrosion 0

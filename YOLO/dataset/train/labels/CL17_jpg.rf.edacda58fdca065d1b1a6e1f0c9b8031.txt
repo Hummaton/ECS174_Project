@@ -1,0 +1,7 @@
+18 160 51 160 51 172 18 172 moderate-corrosion 0
+0 0 51 0 51 88 0 88 severe-corrosion 0
+275 0 439.246 0 439.246 119 275 119 severe-corrosion 0
+479 59 522 59 522 172 479 172 severe-corrosion 0
+598 37 613 37 613 85 598 85 moderate-corrosion 0
+0 422 182 422 182 640 0 640 moderate-corrosion 0
+275 172 640 172 640 640 275 640 severe-corrosion 0

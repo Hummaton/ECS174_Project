@@ -1,0 +1,6 @@
+189.662 0 640 0 640 640 189.662 640 severe-corrosion 0
+98 21 258 21 258 307 98 307 severe-corrosion 0
+0 244 20 244 20 422 0 422 severe-corrosion 0
+2 442 116 442 116 633 2 633 severe-corrosion 0
+148 312 246 312 246 415 148 415 severe-corrosion 0
+5 82 83 82 83 192 5 192 severe-corrosion 0

@@ -1,0 +1,2 @@
+233 536 490 536 490 640 233 640 mild-corrosion 0
+526 523 640 523 640 640 526 640 moderate-corrosion 0

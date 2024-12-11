@@ -1,0 +1,4 @@
+2 267 306 267 306 426 2 426 severe-corrosion 0
+2 34 271 34 271 199 2 199 severe-corrosion 0
+171 199 259 199 259 324 171 324 severe-corrosion 0
+242 424 291 424 291 546 242 546 moderate-corrosion 0

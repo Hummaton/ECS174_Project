@@ -1,0 +1,2 @@
+218 525 288 525 288 605 218 605 moderate-corrosion 0
+579 498 621 498 621 566 579 566 moderate-corrosion 0
