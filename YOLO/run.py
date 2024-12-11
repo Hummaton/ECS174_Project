@@ -1,13 +1,13 @@
 import os
-from sklearn.metrics import precision_score, recall_score, f1_score, accuracy_score
+# from sklearn.metrics import precision_score, recall_score, f1_score, accuracy_score
 
-import numpy as np
+# import numpy as np
 import torch
 from torch.utils.data import DataLoader
 from torchvision.transforms import Compose, ToTensor, Normalize
 from tqdm import tqdm
 from ultralytics import YOLO  # YOLOv5 framework
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 # === Data Preprocessing ===
 def convert_to_yolo_format(bbox_list, image_width, image_height):
@@ -72,7 +72,7 @@ print(os.listdir(dataset_dir))
 # === Model Setup ===
 def get_model():
     """Load the YOLO model."""
-    model = YOLO('yolov5s.pt')  # Pretrained YOLOv5s model
+    model = YOLO('yolov5su.pt')  # Pretrained YOLOv5s model
     return model
 
 model = get_model()
@@ -84,7 +84,7 @@ print("Model loaded successfully and is running on", device)
 def train_model(model, data_yaml, num_epochs=50, batch_size=8):
     """Train YOLOv5 on the specified dataset."""
     print("\n=== Starting Training ===")
-    model.train(data=data_yaml, epochs=num_epochs, batch=batch_size)
+    model.train(data=data_yaml, epochs=num_epochs, batch=batch_size, project="./runs")
 
 # === Validation ===
 def validate_model(model, data_yaml):
@@ -179,4 +179,4 @@ def plot_loss_curve(log_dir):
 
 
 
-train_model(model, data_yaml=data_yaml, num_epochs=15, batch_size=8)
+train_model(model, data_yaml=data_yaml, num_epochs=50, batch_size=10)
