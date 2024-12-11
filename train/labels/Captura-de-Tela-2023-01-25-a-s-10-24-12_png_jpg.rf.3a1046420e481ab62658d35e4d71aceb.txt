@@ -1,4 +1,0 @@
-0 18 210 18 210 132 0 132 severe-corrosion 0
-154 0 190 0 190 24 154 24 moderate-corrosion 0
-0 486 141 486 141 640 0 640 moderate-corrosion 0
-320 275 640 275 640 532.94 320 532.94 corroded-part 0

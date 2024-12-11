@@ -1,2 +1,0 @@
-0 0 171 0 171 456 0 456 severe-corrosion 0
-222 0 492 0 492 72 222 72 severe-corrosion 0

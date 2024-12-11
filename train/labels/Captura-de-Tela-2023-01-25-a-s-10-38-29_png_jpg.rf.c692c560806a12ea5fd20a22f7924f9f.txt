@@ -1,2 +1,0 @@
-561 404 606 404 606 486 561 486 severe-corrosion 0
-20 514 73 514 73 568 20 568 moderate-corrosion 0

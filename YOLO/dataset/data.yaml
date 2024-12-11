@@ -1,6 +1,6 @@
 train: ./train/images
-val: /Users/harjotgill/Desktop/UC_DAVIS/ECS174/ECS174_Project/YOLO/dataset/valid/images
-test: /Users/harjotgill/Desktop/UC_DAVIS/ECS174/ECS174_Project/YOLO/dataset/test/images
+val: ./valid/images
+test: ./test/images
 
 nc: 10
 names: ['Rust', 'car', 'copper corrosion', 'corroded-part', 'corrosion', 'iron rust', 'mild-corrosion', 'moderate-corrosion', 'rust', 'severe-corrosion']

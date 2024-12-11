@@ -1,5 +1,0 @@
-219 0 413 0 413 390 219 390 severe-corrosion 0
-0 0 108 0 108 390 0 390 severe-corrosion 0
-435 0 508 0 508 390 435 390 severe-corrosion 0
-0 390 435 390 435 640 0 640 severe-corrosion 0
-435 390 640 390 640 640 435 640 severe-corrosion 0

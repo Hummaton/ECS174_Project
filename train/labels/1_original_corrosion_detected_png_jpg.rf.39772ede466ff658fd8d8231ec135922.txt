@@ -1,2 +1,0 @@
-63 0 120 0 120 4 63 4 mild-corrosion 0
-240 540 444 540 444 640 240 640 mild-corrosion 0

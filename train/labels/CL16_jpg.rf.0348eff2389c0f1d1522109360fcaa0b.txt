@@ -1,2 +1,0 @@
-270 301 601 301 601 521 270 521 severe-corrosion 0
-562 19 588 19 588 33 562 33 mild-corrosion 0

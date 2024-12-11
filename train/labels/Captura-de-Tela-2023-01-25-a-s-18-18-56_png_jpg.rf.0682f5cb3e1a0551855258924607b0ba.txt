@@ -1,2 +1,0 @@
-547 26 640 26 640 217 547 217 severe-corrosion 0
-494 0 542 0 542 66 494 66 severe-corrosion 0

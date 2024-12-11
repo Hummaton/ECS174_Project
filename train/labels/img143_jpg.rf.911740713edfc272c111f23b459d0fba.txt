@@ -1,3 +1,0 @@
-0 0 377 0 377 277.971 0 277.971 severe-corrosion 0
-377 0 640 0 640 345 377 345 severe-corrosion 0
-0 345 377 345 377 640 0 640 severe-corrosion 0

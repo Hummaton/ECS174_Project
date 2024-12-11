@@ -1,5 +1,0 @@
-0 0 320 0 320 345 0 345 corroded-part 0
-320 0 640 0 640 345 320 345 moderate-corrosion 0
-320 345 351 345 351 640 320 640 severe-corrosion 0
-367 503 480 503 480 640 367 640 severe-corrosion 0
-398 345 640 345 640 483 398 483 severe-corrosion 0

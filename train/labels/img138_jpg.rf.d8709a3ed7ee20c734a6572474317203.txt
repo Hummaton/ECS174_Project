@@ -1,1 +1,0 @@
-10 7 635 7 635 634 10 634 severe-corrosion 0

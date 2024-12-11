@@ -1,1 +1,0 @@
-0 3 120 3 120 640 0 640 severe-corrosion 0

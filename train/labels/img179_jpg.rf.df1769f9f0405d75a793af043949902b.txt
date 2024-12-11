@@ -1,1 +1,0 @@
-0 568 640 568 640 640 0 640 moderate-corrosion 0

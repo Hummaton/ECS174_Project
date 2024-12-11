@@ -1,2 +1,0 @@
-349 422 484 422 484 577 349 577 severe-corrosion 0
-499 403 590 403 590 450 499 450 severe-corrosion 0

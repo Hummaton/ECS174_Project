@@ -1,5 +1,0 @@
-0 0 428 0 428 416 0 416 severe-corrosion 0
-0 592 428 592 428 640 0 640 moderate-corrosion 0
-470 504 505 504 505 539 470 539 moderate-corrosion 0
-474 601 501 601 501 640 474 640 mild-corrosion 0
-583 416 632 416 632 437 583 437 mild-corrosion 0
