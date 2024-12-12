@@ -1,2 +1,11 @@
-*/.DS_Store
-.vscode
+# Ignore .DS_Store files
+*.DS_Store
+
+# Ignore .vscode directory
+.vscode/
+
+# Ignore specific zip file
+Rust Detection.v1i.yolov5-obb.zip
+
+# Ignore .DS_Store files in the dataset/train directory
+dataset/train/.DS_Store
