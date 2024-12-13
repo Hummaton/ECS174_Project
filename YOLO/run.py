@@ -53,5 +53,4 @@ def validate_model(model, data_yaml):
 
 # === Run Training and Validation ===
 
-train_model(model, data_yaml=data_yaml, num_epochs=50, batch_size=10)
-validate_model(model, data_yaml=data_yaml)
+train_model(model, data_yaml=data_yaml, num_epochs=50, batch_size=16)
